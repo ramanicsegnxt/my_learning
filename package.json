@@ -11,5 +11,8 @@
   "dependencies": {
     "cypress": "^14.0.1",
     "cypress_framework": "file:"
+  },
+  "devDependencies": {
+    "cypress-split": "^1.24.7"
   }
 }
