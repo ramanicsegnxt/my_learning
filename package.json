@@ -1,0 +1,15 @@
+{
+  "name": "cypress_framework",
+  "version": "1.0.0",
+  "description": "cypress_framework",
+  "main": "index.js",
+  "scripts": {
+    "uat:chrome": "cypress run --browser chrome"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^14.0.1",
+    "cypress_framework": "file:"
+  }
+}
